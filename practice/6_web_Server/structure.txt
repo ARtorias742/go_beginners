@@ -1,0 +1,11 @@
+simple-web-server/
+├── main.go              # Entry point for the application
+├── handlers/            # Package for HTTP handlers
+│   └── handlers.go      # Handler functions for routes
+├── models/              # Package for data models
+│   └── user.go          # Simple user model for JSON response
+├── static/              # Static assets (CSS, images, etc.)
+│   ├── css/
+│   │   └── style.css    # Sample CSS file
+│   └── index.html       # HTML template for home page
+└── go.mod               # Module file for dependency management

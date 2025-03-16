@@ -1,0 +1,6 @@
+INFO: 2025/03/16 15:34:38 main.go:51: Logger initialized
+INFO: 2025/03/16 15:34:38 main.go:67: Failed to connect to database after 3 retries: sql: unknown driver "sqlite3" (forgotten import?)
+INFO: 2025/03/16 15:34:53 main.go:51: Logger initialized
+INFO: 2025/03/16 15:34:53 main.go:67: Failed to connect to database after 3 retries: sql: unknown driver "sqlite3" (forgotten import?)
+INFO: 2025/03/16 15:35:09 main.go:51: Logger initialized
+INFO: 2025/03/16 15:35:09 main.go:67: Failed to connect to database after 3 retries: sql: unknown driver "sqlite3" (forgotten import?)
